@@ -1,9 +1,8 @@
-/* Remove or comment out this file if you plan to use Tailwind classes directly in JSX */
+/* Remove or comment out this file if you plan to use Tailwind classes directly in JSX
 
 .App {
   @apply text-center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -20,6 +19,7 @@
   font-size: calc(10px + 2vmin);
 }
 
+
 .App-link {
   @apply text-blue-400;
 }
@@ -31,4 +31,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
